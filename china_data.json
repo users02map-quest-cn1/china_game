@@ -1,0 +1,172 @@
+[
+  {
+    "province": "北京市",
+    "capital": "北京",
+    "abbreviation": "京"
+  },
+  {
+    "province": "上海市",
+    "capital": "上海",
+    "abbreviation": "沪"
+  },
+  {
+    "province": "天津市",
+    "capital": "天津",
+    "abbreviation": "津"
+  },
+  {
+    "province": "重庆市",
+    "capital": "重庆",
+    "abbreviation": "渝"
+  },
+  {
+    "province": "河北省",
+    "capital": "石家庄",
+    "abbreviation": "冀"
+  },
+  {
+    "province": "山西省",
+    "capital": "太原",
+    "abbreviation": "晋"
+  },
+  {
+    "province": "辽宁省",
+    "capital": "沈阳",
+    "abbreviation": "辽"
+  },
+  {
+    "province": "吉林省",
+    "capital": "长春",
+    "abbreviation": "吉"
+  },
+  {
+    "province": "黑龙江省",
+    "capital": "哈尔滨",
+    "abbreviation": "黑"
+  },
+  {
+    "province": "江苏省",
+    "capital": "南京",
+    "abbreviation": "苏"
+  },
+  {
+    "province": "浙江省",
+    "capital": "杭州",
+    "abbreviation": "浙"
+  },
+  {
+    "province": "安徽省",
+    "capital": "合肥",
+    "abbreviation": "皖"
+  },
+  {
+    "province": "福建省",
+    "capital": "福州",
+    "abbreviation": "闽"
+  },
+  {
+    "province": "江西省",
+    "capital": "南昌",
+    "abbreviation": "赣"
+  },
+  {
+    "province": "山东省",
+    "capital": "济南",
+    "abbreviation": "鲁"
+  },
+  {
+    "province": "河南省",
+    "capital": "郑州",
+    "abbreviation": "豫"
+  },
+  {
+    "province": "湖北省",
+    "capital": "武汉",
+    "abbreviation": "鄂"
+  },
+  {
+    "province": "湖南省",
+    "capital": "长沙",
+    "abbreviation": "湘"
+  },
+  {
+    "province": "广东省",
+    "capital": "广州",
+    "abbreviation": "粤"
+  },
+  {
+    "province": "海南省",
+    "capital": "海口",
+    "abbreviation": "琼"
+  },
+  {
+    "province": "四川省",
+    "capital": "成都",
+    "abbreviation": "川"
+  },
+  {
+    "province": "贵州省",
+    "capital": "贵阳",
+    "abbreviation": "黔"
+  },
+  {
+    "province": "云南省",
+    "capital": "昆明",
+    "abbreviation": "云"
+  },
+  {
+    "province": "陕西省",
+    "capital": "西安",
+    "abbreviation": "陕"
+  },
+  {
+    "province": "甘肃省",
+    "capital": "兰州",
+    "abbreviation": "甘"
+  },
+  {
+    "province": "青海省",
+    "capital": "西宁",
+    "abbreviation": "青"
+  },
+  {
+    "province": "台湾省",
+    "capital": "台北",
+    "abbreviation": "台"
+  },
+  {
+    "province": "内蒙古自治区",
+    "capital": "呼和浩特",
+    "abbreviation": "内蒙古"
+  },
+  {
+    "province": "广西壮族自治区",
+    "capital": "南宁",
+    "abbreviation": "桂"
+  },
+  {
+    "province": "西藏自治区",
+    "capital": "拉萨",
+    "abbreviation": "藏"
+  },
+  {
+    "province": "宁夏回族自治区",
+    "capital": "银川",
+    "abbreviation": "宁"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "capital": "乌鲁木齐",
+    "abbreviation": "新"
+  },
+  {
+    "province": "香港特别行政区",
+    "capital": "香港",
+    "abbreviation": "港"
+  },
+  {
+    "province": "澳门特别行政区",
+    "capital": "澳门",
+    "abbreviation": "澳"
+  }
+]

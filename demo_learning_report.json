@@ -1,0 +1,38 @@
+{
+  "mistakes": {
+    "省份：广东省，请输入省会？|深圳": {
+      "question": "省份：广东省，请输入省会？",
+      "wrong_answer": "深圳",
+      "correct_answer": "广州",
+      "count": 1,
+      "first_occurrence": "2026-06-16T13:04:36.769505",
+      "last_occurrence": "2026-06-16T13:04:36.769527"
+    },
+    "省份：山东省，请输入简称？|齐": {
+      "question": "省份：山东省，请输入简称？",
+      "wrong_answer": "齐",
+      "correct_answer": "鲁",
+      "count": 1,
+      "first_occurrence": "2026-06-16T13:04:36.769536",
+      "last_occurrence": "2026-06-16T13:04:36.769540"
+    },
+    "省份：湖南省，请输入省会？|湘潭": {
+      "question": "省份：湖南省，请输入省会？",
+      "wrong_answer": "湘潭",
+      "correct_answer": "长沙",
+      "count": 1,
+      "first_occurrence": "2026-06-16T13:04:36.769546",
+      "last_occurrence": "2026-06-16T13:04:36.769549"
+    },
+    "省份：四川省，请输入省会？|重庆": {
+      "question": "省份：四川省，请输入省会？",
+      "wrong_answer": "重庆",
+      "correct_answer": "成都",
+      "count": 1,
+      "first_occurrence": "2026-06-16T13:04:36.769554",
+      "last_occurrence": "2026-06-16T13:04:36.769557"
+    }
+  },
+  "total_attempts": 1,
+  "total_mistakes": 4
+}
